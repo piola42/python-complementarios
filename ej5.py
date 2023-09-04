@@ -1,0 +1,5 @@
+print("Ingrese las velocidades")
+num1 = float( input())
+num2 = float( input())
+distancia = float( input("Ingrese la distancia: "))
+print(distancia/(num1+num2))
